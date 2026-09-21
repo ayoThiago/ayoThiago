@@ -30,6 +30,6 @@ Sou apaixonado por tecnologia desde criança e focado em transformar problemas c
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayoThiago&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoThiago&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=@ayoThiago&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=@ayoThiago&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
