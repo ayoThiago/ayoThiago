@@ -17,7 +17,7 @@ Sou apaixonado por tecnologia desde criança e focado em transformar problemas c
 
 ---
 
-## 🛠️ Minhas Habilidades (Tech Stack)
+## 🛠️ Habilidades
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -31,5 +31,5 @@ Sou apaixonado por tecnologia desde criança e focado em transformar problemas c
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayoThiago&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoThiago&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
