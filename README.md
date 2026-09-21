@@ -13,7 +13,8 @@
 Sou apaixonado por tecnologia desde criança e focado em transformar problemas complexos em soluções eficientes através da lógica e dos dados. Atualmente, estou expandindo meus conhecimentos na universidade e buscando minha primeira oportunidade corporativa para aplicar e escalar o que venho construindo.
 
 * 🎓 **Formação:** Cursando o 5º semestre de **Ciência da Computação** na Universidade Presbiteriana Mackenzie (Bolsista Integral) e Técnico em Desenvolvimento de Sistemas formado pela ETEC.
-* 🎯 **Interesses:** Análise de Dados, Desenvolvimento Back-end e Automação.
+* 💼 **Background Híbrido:** Trago uma forte base em algoritmos e programação, somada a uma vivência prática em operações e atendimento de alto fluxo no comércio familiar. Isso me ensinou a ter visão de negócios, lidar com pressão e resolver problemas com agilidade.
+* 🎯 **Interesses:** Análise de Dados, Desenvolvimento Back-end, Arquitetura de Sistemas (UML) e Automação.
 
 ---
 
@@ -30,6 +31,6 @@ Sou apaixonado por tecnologia desde criança e focado em transformar problemas c
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=@ayoThiago&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=@ayoThiago&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayoThiago&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoThiago&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
