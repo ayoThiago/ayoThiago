@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou o Thiago Brito! 👋</h1>
+  <h1>Olá, eu sou o Thiago! 👋</h1>
   <h3>🚀 Estudante de Ciência da Computação | Entusiasta de Back-end & Dados</h3>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-brit0/)
